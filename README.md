@@ -14,3 +14,8 @@ https://cracklab.team/PAunlock/
 ## News pool
 https://xakep.ru/2017/02/06/denuvo-leak/  
 https://www.reddit.com/r/CrackWatch/comments/5s88mk/major_denuvo_leaks/  
+
+## See also
+DENUVO Profiler Tool
+https://github.com/Blaukovitch/DENUVO_Profiler
+
